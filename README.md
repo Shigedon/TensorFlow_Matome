@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YukishigeKawaguchi
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Python Programming.
+- 👀 I’m interested in Data Engineering & Machine Learnig.
+- 🌱 I’m currently learning MLOps.
 
 
 <!---
